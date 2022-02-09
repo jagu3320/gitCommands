@@ -1,1 +1,6 @@
-made edits to read me
+<<<<<<< HEAD
+# gitCommands
+Resolve issues
+=======
+Resolve issues
+>>>>>>> main
