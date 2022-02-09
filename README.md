@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 # gitCommands
-Project Team Members: Jair Galindo
+Resolve issues
+=======
+Resolve issues
+>>>>>>> main
