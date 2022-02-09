@@ -1,1 +1,1 @@
-# gitCommands
+made edits to read me
