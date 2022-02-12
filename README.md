@@ -7,6 +7,7 @@ This is the readme file
 These are the edits made by Ben 
 =======
 These are the edits made by Ben, and Emily
+Reviewed by Emily Dunbar
 >>>>>>> main
 Coopers edit
 >>>>>>> main
