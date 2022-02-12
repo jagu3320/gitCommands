@@ -1,5 +1,5 @@
 
-Project Team Members:Ben
+Project Team Members:Ben, Cooper, Emily
 This is the readme file
 Cooper's edit
 
