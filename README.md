@@ -1,5 +1,4 @@
-
-Project Team Members:Ben, Cooper, Emily
+Project Team Members:Ben, Cooper, Emily, Behta
 This is the readme file
 Cooper's edit
 
@@ -8,7 +7,6 @@ This is the readme file
 These are the edits made by Ben & Behta
 =======
 These are the edits made by Ben, and Emily, and Behta
-Reviewed by Emily Dunbar
->>>>>>> main
+Reviewed by Emily Dunbar & Behta
 Coopers edit
 
