@@ -4,9 +4,13 @@ Cooper's edit
 
 Project Team Members: Emily Dunbar
 This is the readme file
+<<<<<<< HEAD
 These are the edits made by Ben & Behta
 =======
 These are the edits made by Ben, and Emily, and Behta
+Reviewed by Emily Dunbar & Behta
+======= 
+These are the edits made by Ben, and Emily
 Reviewed by Emily Dunbar & Behta
 Coopers edit
 
